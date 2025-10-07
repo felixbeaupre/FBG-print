@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Catalogue — FBG Print</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html" class="logo">FBG Print</a>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="personnalise.html">Commande personnalisée</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="catalogue">
+      <h2>Notre catalogue</h2>
+      <p>Les produits seront bientôt affichés ici.</p>
+      <div class="produits-grid">
+        <!-- Exemples vides ; tu pourras ajouter des cartes de produits ici -->
+        <!-- Exemple de structure :
+        <div class="produit-card">
+          <img src="chemin/vers-image.jpg" alt="Nom du produit" />
+          <h3>Nom du produit</h3>
+          <p>Brève description du produit.</p>
+          <a href="personnalise.html" class="btn">Commander</a>
+        </div>
+        -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 FBG Print — Tous droits réservés</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
